@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+.box{
+	width: 250px;
+	height: 500px;
+}
+ 
+.black{
+	background:#000000;
+}
+
+.name {
+  color: #fff;
+  font-size: 70px;
+  padding-left: 4px;
+  padding-right: 4px;
+}
